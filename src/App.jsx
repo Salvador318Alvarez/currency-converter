@@ -14,6 +14,7 @@ function App() {
         setCurrencyOption(['USD', ...Object.keys(data.data)])
       })
   }, [])
+//studying Javascript
 
   return (
     <>
